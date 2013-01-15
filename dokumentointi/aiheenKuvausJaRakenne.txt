@@ -1,0 +1,11 @@
+
+AIHE: FB-golf tulosjärjestelmä
+
+Tarkoituksena on luoda tulosjärjestelmä frisbeegolffiin. Se sisältää eri ratojen ja pelaajien tallennuksen sekä molempien statistiikat. Statistiikat keskittyvät pelaajan kehitykseen todennäköisesti myös graafeina. Kierrosten karttuessa on mukava seurailla omaa sekä pelikavereiden kehitystä. 
+	
+KÄYTTÄJÄT: pelaaja
+
+TOIMINNOT:	- ratojen lisäys (väylät ja parit)
+		- pelaajien lisäys
+		- ratojen ja väylien perustilastot (myös pelaajakohtaisesti)
+		
