@@ -1,0 +1,18 @@
+Rata
+	- List<Integer> vaylat
+		- PAR:t ja indexit väylänumeroina
+
+Pelaaja
+	- HashMappiin key:ksi Rata ja valueksi List<int[]>, johon tallennetaan tulokset
+	- Taulukon pituus on väylien lukumäärä
+	- Listin uuteen indeksiin aina uuden kierroksen tulokset
+
+	- liian monimutkainen=?
+
+Tiedostonkasittelija
+	- Hoitaa Radan ja Pelaajan tallentamisen (sekä lataamisen) objektina
+	- Tiedostojen (Rata & Pelaaja) listaus
+
+Logiikka
+	- syötteet
+	- sen hetkisen pistetilanteen
