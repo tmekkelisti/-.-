@@ -30,6 +30,9 @@ public class Logiikka {
         
         System.out.print("Väylien lukumäärä? ");
         int vaylia = lukija.lueKokonaisluku();
+        
+        
+        
         ArrayList<Integer> vaylat = new ArrayList<Integer>();
         for (int i = 0; i < vaylia; i++) {
             System.out.print((i+1) + ". väylän PAR? ");

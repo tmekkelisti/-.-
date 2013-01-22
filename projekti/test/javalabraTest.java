@@ -59,7 +59,7 @@ public class javalabraTest {
         assertEquals("player", p.getNimi());
     }
     
-    
+   
     
     
 }

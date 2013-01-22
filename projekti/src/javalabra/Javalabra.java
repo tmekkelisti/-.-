@@ -11,7 +11,7 @@ public class Javalabra {
         Logiikka m = new Logiikka();
 
         
-//        m.kaynnista();
+        m.kaynnista();
 //
         m.uusiRata();
 //        
