@@ -2,3 +2,4 @@
 19.01.13 1.5h 	luokkien suunnittelua, objektien tallentamisen opiskelua
 20.01.13 2h	ratojen tallentaminen ja skannaaminen/listaaminen kansiosta
 22.01.13 2h	luokkien suunnittelu, luokkakaavio
+29.01.13 4h	tallentamisen parantelua/korjaamista, käyttöliittymä aluilleen
